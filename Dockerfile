@@ -1,1 +1,1 @@
-FROM debian:10
+FROM python:3.9.10
