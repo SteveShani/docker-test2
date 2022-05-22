@@ -1,1 +1,1 @@
-FROM steveshani/goof:2
+FROM steveshani/goof:1
