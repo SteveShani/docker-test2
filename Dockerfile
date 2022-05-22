@@ -1,1 +1,1 @@
-FROM steveshani/goof:1
+FROM debian:10
